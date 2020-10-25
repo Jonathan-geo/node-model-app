@@ -67,8 +67,7 @@
 <h5>BANCO DE DADOS:</h5>
 
 
-<code>
-
+<pre>
 module.exports = {
     dialect: 'mssql',
     host: 'plcmdb.database.windows.net',
@@ -92,8 +91,7 @@ SELECT TOP (1000) * FROM [dbo].[FormEntrada_CadastroOS]
 Grupo Empresarial   ds_Cliente              ds_CNPJCliente      OS      dt_Inicio                       dt_Final
 DU PONT DO BRASIL   DU PONT DO BRASIL S A   061064929000179     168091  2019-04-01T00:00:00.0000000     2020-03-31T00:00:00.0000000
 DU PONT DO BRASIL   DU PONT DO BRASIL S A   061064929000179     168092  2019-04-01T00:00:00.0000000     2020-03-31T00:00:00.0000000
-
-</code>
+</pre>
 
 
 ## LINKS
